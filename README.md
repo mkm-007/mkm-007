@@ -18,7 +18,7 @@ Building applied AI systems: NL→SQL chatbots, RAG pipelines, and UI agents.
 | Doc Abstraction (RAG) | Chunk → retrieve → grounded abstract | [doc-abstraction-llm](https://github.com/mkm-007/doc-abstraction-llm) |
 | UI Agent Bot | NL UI request → Angular component stub | [ui-agent-bot](https://github.com/mkm-007/ui-agent-bot) |
 
-Each repo includes `README`, `run_demo.py`, tests, and `demo_output.txt`.
+Each lab includes `README`, `run_demo.py`, tests, and `demo_output.txt`.
 
 ---
 
