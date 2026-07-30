@@ -3,8 +3,8 @@
 **MS Computer Science @ Georgia State University** · Atlanta, GA  
 Graduate Assistant — Deep Learning (CSC 8851)
 
-ECE + AIML foundations → devices → applied AI → deep learning @ GSU.  
-Fundamentals-first; interested in theory and research that scales real products.
+ECE + AIML — I care about models and the systems around them.  
+At GSU now; before that IoT work and staff-facing AI at GITAM. I like research that has to survive real users.
 
 [Portfolio](https://mkm-007.github.io/MKM/) · [Email](mailto:mmaddineni1@student.gsu.edu) · [LinkedIn](https://www.linkedin.com/in/murali-maddineni-709151247/) · [GitHub](https://github.com/mkm-007)
 
