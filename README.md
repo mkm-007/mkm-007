@@ -3,7 +3,8 @@
 **MS Computer Science @ Georgia State University** · Atlanta, GA  
 Graduate Assistant — Deep Learning (CSC 8851)
 
-Applied AI systems: NL→SQL, document RAG, and UI agent workflows.  
+ECE + AIML foundations → embedded systems → staff-facing AI → deep learning research practice.  
+I want to apply theoretical and research knowledge to scale products and services.  
 Open to Software / AI / ML Internships · Co-ops · Applied AI roles
 
 [Portfolio](https://mkm-007.github.io/MKM/) · [Email](mailto:mmaddineni1@student.gsu.edu) · [LinkedIn](https://www.linkedin.com/in/murali-maddineni-709151247/) · [GitHub](https://github.com/mkm-007)
