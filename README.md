@@ -3,9 +3,7 @@
 **MS Computer Science @ Georgia State University** · Atlanta, GA  
 Graduate Assistant — Deep Learning (CSC 8851)
 
-I am building an academic foundation in applied AI and deep learning.
-
-As an MS CS student and Deep Learning GA at Georgia State, I work from ECE + AIML roots through coursework systems and campus AI tooling. The standard I hold is research-minded and honest: clear framing, careful evaluation, reproducible demos, and claims that survive scrutiny.
+MS Computer Science student and Deep Learning Graduate Assistant at Georgia State. I am putting an ECE + AIML foundation to work through study, campus AI systems, and lab practice, with a practical mindset: understand clearly, build carefully, evaluate honestly, and keep moving toward Software and Applied AI roles where that discipline matters.
 
 **Open to:** Software / AI / ML Internships · Co-ops · Applied AI roles
 
