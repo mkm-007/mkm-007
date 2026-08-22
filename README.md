@@ -3,7 +3,7 @@
 **MS Computer Science @ Georgia State University** · Atlanta, GA  
 Graduate Assistant — Deep Learning (CSC 8851)
 
-MS Computer Science student and Deep Learning Graduate Assistant at Georgia State. I am putting an ECE + AIML foundation to work through study, campus AI systems, and lab practice, with a practical mindset: understand clearly, build carefully, evaluate honestly, and keep moving toward Software and Applied AI roles where that discipline matters.
+MS Computer Science student and Deep Learning Graduate Assistant at Georgia State. I am putting an ECE + AIML foundation to work through study, campus AI systems, and graduate coursework, with a practical mindset: understand clearly, build carefully, evaluate honestly, and keep moving toward Software and Applied AI roles where that discipline matters.
 
 **Open to:** Software / AI / ML Internships · Co-ops · Applied AI roles
 
@@ -11,7 +11,16 @@ MS Computer Science student and Deep Learning Graduate Assistant at Georgia Stat
 
 ---
 
-## Projects
+## Coursework
+
+| Project | Repo |
+|---------|------|
+| Radiology report generation | [AIP_Radiology_Project](https://github.com/mkm-007/AIP_Radiology_Project) |
+| Graph deanonymization | [Individual_Project](https://github.com/mkm-007/Individual_Project) |
+| Lifeline (DB systems) | [DBS-CSC-6710](https://github.com/mkm-007/DBS-CSC-6710) |
+| Weather time-series | [ML-CSC-6850](https://github.com/mkm-007/ML-CSC-6850) |
+
+## Campus AI
 
 | Project | Repo |
 |---------|------|
@@ -20,9 +29,3 @@ MS Computer Science student and Deep Learning Graduate Assistant at Georgia Stat
 | UI Component Agent Bot | [ui-agent-bot](https://github.com/mkm-007/ui-agent-bot) |
 
 Full experience, education, and skills → [mkm-007/MKM](https://github.com/mkm-007/MKM)
-
----
-
-## Skills
-
-Python · SQL · LangChain · LLMs · RAG · PyTorch · Postgres · Git · Linux · Angular · Embedded C
