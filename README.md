@@ -20,12 +20,4 @@ MS Computer Science student and Deep Learning Graduate Assistant at Georgia Stat
 | Lifeline (DB systems) | [DBS-CSC-6710](https://github.com/mkm-007/DBS-CSC-6710) |
 | Weather time-series | [ML-CSC-6850](https://github.com/mkm-007/ML-CSC-6850) |
 
-## Campus AI
-
-| Project | Repo |
-|---------|------|
-| NLQ Chatbot over Database | [nlq-chatbot](https://github.com/mkm-007/nlq-chatbot) |
-| Document Abstraction with LLM (RAG) | [doc-abstraction-llm](https://github.com/mkm-007/doc-abstraction-llm) |
-| UI Component Agent Bot | [ui-agent-bot](https://github.com/mkm-007/ui-agent-bot) |
-
 Full experience, education, and skills → [mkm-007/MKM](https://github.com/mkm-007/MKM)
